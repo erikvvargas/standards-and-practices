@@ -114,6 +114,7 @@ Format:
 | Eli Mullis | [ewm9759](https://github.com/ewm9759) | Comp sci undergrad looking to contribute to OSS. Extensive coursework in Java, plus some self-taught experience with Python, C, and Haskell.
 | Eric Chreng | [taqeric](https://github.com/taqeric) | Beginner in Python |
 | Eric Soderstrom | [eksoderstrom](https://github.com/eksoderstrom) ||
+| Erik Vargas | [erikvvargas] (http://github.com/erikvvargas) | Python, C and a little C++. Looking to learn as much as possible and gain some experience.
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
 | Frank Harvey | [superking84](https://github.com/superking84) | Majority of my experinece is in Python, however I have some basic web dev experience (JavaScript, HTML, CSS).  My real goal is not necessarily to master any given language, but rather to become a well-rounded programmer. |
